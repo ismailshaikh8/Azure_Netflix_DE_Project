@@ -1,4 +1,4 @@
-<h1>How I Implementing Unity Catalog, Auto Loader, and Automated Data Ingestion Using Databricks Workflows</h1>
+<h1>Data Ingestion Using Azure Data Factory</h1>
 
 <!-- Introduction -->
 <h2>Introduction</h2>
@@ -11,7 +11,7 @@ In this project, I designed dynamic pipelines in Azure Data Factory (ADF) to ing
 For this project, I used Azure Data Factory (ADF) and Azure Data Lake Storage Gen2 (ADLS Gen2) to implement key concepts such as data ingestion, dynamic pipelines, and efficient data organization within the storage account.</p>
 
 <!-- Understanding Dataset  -->
-<h2>How I Set Up Unity Catalog</h2>
+<h2>Understanding Dataset</h2>
 <p>I have four files on my GitHub page: netflix_cast.csv, netflix_category.csv, netflix_countries.csv, and netflix_directors.csv. I will ingest these files into Azure Data Lake using Azure Data Factory. To manage this process, I am using netflix_titles.csv as a validation file. I uploaded this file directly to the raw container in ADLS, and it will be used to ensure that the pipeline only runs when this file is available.</p>
 
 <h2>How I Set up ADLS and ADF</h2>
