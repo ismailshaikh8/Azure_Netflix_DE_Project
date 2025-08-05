@@ -128,5 +128,9 @@ For this project, I used Azure Data Factory (ADF) and Azure Data Lake Storage Ge
 <h2>Success</h2>
 <img src="project_screenshots/29.png">
 <img src="project_screenshots/30.png">
+<img src="project_screenshots/31.png">
+<img src="project_screenshots/32.png">
+<img src="project_screenshots/33.png">
+
 
 
